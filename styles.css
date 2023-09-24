@@ -29,16 +29,20 @@ text-align: center;
   }
   .player_one{
     margin: 0%;
-    padding: 0%;
+   
     overflow: hidden;
     list-style-type: none                       ;
-    background-color: white;
+    background-color:rgb(255,255,255);
+	   border-radius: 0%;
+	   padding: 0%;
     border: solid;
     
   }
   .player_two{
     margin: 0%;
-    padding: 0%;
+    background-color:rgb(255,255,255);
+	   border-radius: 0%;
+	   padding: 0%;
     overflow: hidden;
     list-style-type: none                       ;
     background-color: white;
